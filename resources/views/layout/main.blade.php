@@ -22,7 +22,7 @@
               </li>
 
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="{{ route('account.list') }}"><i class="fas fa-spinner fa-spin"></i>  Account</a>
+                    <a class="nav-link active" aria-current="page" href="{{ route('compte') }}"><i class="fas fa-spinner fa-spin"></i>  Account</a>
                 </li>
             </ul>
           </div>
